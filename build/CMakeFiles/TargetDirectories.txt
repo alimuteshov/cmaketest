@@ -1,0 +1,3 @@
+C:/Users/Alimbek/Desktop/cmaketest/build/CMakeFiles/HelloTesting.dir
+C:/Users/Alimbek/Desktop/cmaketest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alimbek/Desktop/cmaketest/build/CMakeFiles/ZERO_CHECK.dir
